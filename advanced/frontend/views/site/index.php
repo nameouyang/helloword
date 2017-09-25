@@ -51,3 +51,6 @@ $this->title = 'My Yii Application';
 
     </div>
 </div>
+<div>
+    你好哈哈哈;
+</div>
